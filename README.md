@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
    <h1 align="center">Hi , I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -9,7 +9,7 @@
 <h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=huypg25&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> </p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 </p>
 
@@ -44,16 +44,17 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+	
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/huypg25"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=huypg25&custom_title=Huy's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+
 </details>
+
+
+
 
 <br/>
 
