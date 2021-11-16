@@ -30,11 +30,9 @@
 
 
 
-## 📊 Github Stats (Expand to View) 
-
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Huy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=huypg25&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
