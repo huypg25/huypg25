@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/hello.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/hello.gif" width="50%">
   <br><br>
   <samp>
    <h1 align="center">Hi , I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
