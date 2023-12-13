@@ -6,7 +6,7 @@
 
   </samp>
 </p>
-<h3 align="center">I am a junior web developer. I like to Copy and Paste :grin: :grin: :grin:. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center">I am a software developer. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 
 <h2> Languages and Tools:</h2>
 
